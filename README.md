@@ -1,2 +1,2 @@
 # Synthesis-of-Ammonia
-A Case Study on Synthesis of Ammonia in Cryogenic Process Using Aspen Plus
+A Case Study on Synthesis of Ammonia in Cryogenic Process Using Aspen Plus. Simulated the Synthesis of Ammonia from a mixture of Nitrogen, Hydrogen, Methane, and Argon. Used Equilibrium Reactor which is based on the concept of Gibbs Free Energy Minimization. Employed Ideal, NRTL, and Peng Robinson Property Methods and compared their performance in predicting the Ammonia Production. The plant was optimized for Ammonia Production with its quality constraint of 99.8% purity
